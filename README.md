@@ -1,6 +1,6 @@
 ### E aí, tudo certo? 🤘
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ovinii&show_icons=true&theme=gruvbox)][![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ovinii&layout=compact&theme=gruvbox)](https://github.com/ovinii/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ovinii&show_icons=true&theme=gruvbox)][![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ovinii&layout=compact&theme=gruvbox)(https://github.com/ovinii/github-readme-stats)]
 
 
 
