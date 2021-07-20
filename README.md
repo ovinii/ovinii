@@ -1,4 +1,8 @@
-### Hi there 👋
+### E aí, tudo certo? 🤘
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ovinii&show_icons=true&theme=gruvbox)][![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ovinii&layout=compact)](https://github.com/ovinii/github-readme-stats)
+
+
 
 <!--
 **ovinii/ovinii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
