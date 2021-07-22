@@ -1,14 +1,13 @@
 ### E aí, tudo certo? 🤘
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ovinii&show_icons=true&theme=gruvbox)][![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ovinii&layout=compact&theme=gruvbox)](https://github.com/ovinii/github-readme-stats)
-
-<a href="https://github.com/ovinii/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ovinii&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/ovinii/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ovinii&repo=convoychat" />
-</a>
-
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" style="max-width: 100%;" height="180em" src="https://github-readme-stats.vercel.app/api?username=ovinii&show_icons=true&theme=gruvbox" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" style="max-width: 100%;" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovinii&layout=compact&theme=gruvbox" />
+  </a>
+</div>
 
 <!--
 **ovinii/ovinii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
