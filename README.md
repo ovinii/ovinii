@@ -1,25 +1,24 @@
 ### E aí, tudo certo? 🤘
 ______________________________________________
 <div> 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ovinii&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" />
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovinii&lang_count=7&layout=compact&theme=gruvbox" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ovinii&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovinii&lang_count=7&layout=compact&theme=react" />
 </div>
 
 ______________________________________________
 
-##### Projetos DevPleno 🚀
+##### <a href="https://devpleno.com">Projetos DevPleno Fullstack Master 🚀</a><br>
 
 <div>
-  <a href="https://devpleno.com">Fullstack Master</a><br>
   <a href="https://github.com/ovinii/tabuada-fsm">
-    <img height="90em" src="https://github-readme-stats.vercel.app/api/pin/?username=ovinii&repo=tabuada-fsm&theme=gruvbox" >
+    <img height="80em" src="https://github-readme-stats.vercel.app/api/pin/?username=ovinii&repo=tabuada-fsm&theme=react" >
   </a>
   <a href="https://github.com/ovinii/jobify-fsm">
-    <img height="90em" src="https://github-readme-stats.vercel.app/api/pin/?username=ovinii&repo=jobify-fsm&theme=gruvbox" >
+    <img height="80em" src="https://github-readme-stats.vercel.app/api/pin/?username=ovinii&repo=jobify-fsm&theme=react" >
   </a>
   <a href="https://github.com/ovinii/projeto-crud-fsm">
-    <img height="90em" src="https://github-readme-stats.vercel.app/api/pin/?username=ovinii&repo=projeto-crud-fsm&theme=gruvbox" >
+    <img height="80em" src="https://github-readme-stats.vercel.app/api/pin/?username=ovinii&repo=projeto-crud-fsm&theme=react" >
   </a>
 </div>
 
-______________________________________________
+______________________________________________react
