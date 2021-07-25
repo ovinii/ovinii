@@ -20,5 +20,4 @@ ______________________________________________
     <img height="80em" src="https://github-readme-stats.vercel.app/api/pin/?username=ovinii&repo=projeto-crud-fsm&theme=react" >
   </a>
 </div>
-
-______________________________________________react
+______________________________________________
