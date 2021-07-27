@@ -1,12 +1,12 @@
 ### E aí, tudo certo? 😃
-______________________________________________
+***
 <div> 
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ovinii&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovinii&lang_count=7&layout=compact&theme=react" />
 </div>
 
-**********************************************
-##### <a href="https://devpleno.com">Projetos Fullstack Master 🚀 - <a href="http://devpleno.com">Devpleno</a><br>
+***
+#### <a href="https://devpleno.com">Projetos Fullstack Master 🚀 - <a href="http://devpleno.com">Devpleno</a><br>
 
 <div>
   <a href="https://github.com/ovinii/tabuada-fsm">
@@ -20,4 +20,4 @@ ______________________________________________
   </a>
 </div>
 
-**********************************************
+***
